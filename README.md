@@ -21,7 +21,12 @@ Mara Parker
   email: mep236@pitt.edu
   
   individual notebooks: nontrafficMaraParker.ipynb, policeblotterMaraParker.ipynb
-  
+
+Note:
+Add Blotter data to final project folder: name file in project 'moredata.csv'
+https://data.wprdc.org/datastore/dump/044f2016-1dfd-4ab0-bc1e-065da05fca2e
+(cannot add to github as its 72 MB)
+
 
 Datasets:
 
