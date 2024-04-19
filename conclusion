@@ -1,0 +1,65 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "a9cd2919-1b20-4926-a804-ac0bff763b2b",
+   "metadata": {},
+   "source": [
+    "# Conclusion"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9b322bac-4bed-4798-836e-2a2916618a5c",
+   "metadata": {},
+   "source": [
+    "---"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "acfae29a-9292-405d-ab14-ae07375b4567",
+   "metadata": {},
+   "source": [
+    "### Mara Parker Conclusion"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6f53808a-02bb-444e-9152-62bfded7d6f5",
+   "metadata": {},
+   "source": [
+    "In the end all group members found that the safest neighborhoods would be Mt. Oliver. Wthout taking into account the crime per capita and going off of instances of our variable alone this also helped us to come to our conclusion. It is a reasonable assumption to make that variables like \"Mt. Oliver *Buro*\" and \"Mt. Oliver *Neighborhood*\" could be considered under the same umbrella. This project took a lot of filtration and made me realize that big data sets like this are something I may be interested in working with more. It is interesting to see the final outcome of something you have put together. It also made me realize how much data is genuinely irrelevent and to question the sources in which we get data from."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "faecb40f-f31d-4d8f-b05b-7fb9463cd2cb",
+   "metadata": {},
+   "source": [
+    "---"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.5"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
