@@ -20,7 +20,7 @@ Mara Parker
 
   email: mep236@pitt.edu
   
-  individual notebooks: nontrafficMaraParker.ipynb, policeblotterMaraParker,ipynb
+  individual notebooks: nontrafficMaraParker.ipynb, policeblotterMaraParker.ipynb
 
 Datasets:
 
