@@ -10,7 +10,7 @@ Group members:
 
 Max Wong
 
-  email: maxwon7@gmail.com
+  email: maw564@pitt.edu
   
   individual notebook: arrests.ipynb
 
